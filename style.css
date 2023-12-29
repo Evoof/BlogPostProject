@@ -117,3 +117,9 @@ footer li a:hover {
     width: 50%;
     margin: 32px 0;
 }
+.main-description {
+    font-size: 24px;
+    width: 75%;
+    max-width: 900px;
+    margin: 16px 0;
+}
